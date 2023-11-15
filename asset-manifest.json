@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/christmas-23/static/css/main.080ac855.css",
+    "main.js": "/christmas-23/static/js/main.b2d434c9.js",
+    "static/js/496.2265c129.chunk.js": "/christmas-23/static/js/496.2265c129.chunk.js",
+    "static/media/bythesea.mp3": "/christmas-23/static/media/bythesea.9250b1ffb7a69fa346e4.mp3",
+    "static/media/poker.png": "/christmas-23/static/media/poker.0bd91e49e53b4036b67a.png",
+    "index.html": "/christmas-23/index.html",
+    "main.080ac855.css.map": "/christmas-23/static/css/main.080ac855.css.map",
+    "main.b2d434c9.js.map": "/christmas-23/static/js/main.b2d434c9.js.map",
+    "496.2265c129.chunk.js.map": "/christmas-23/static/js/496.2265c129.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.080ac855.css",
+    "static/js/main.b2d434c9.js"
+  ]
+}
