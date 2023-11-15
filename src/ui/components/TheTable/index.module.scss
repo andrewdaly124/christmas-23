@@ -1,0 +1,36 @@
+.theTableContainer {
+  height: 100%;
+  width: 100%;
+  max-width: 800px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 3vh 6vw 15vh 6vw;
+  gap: 2vh;
+
+  .theTable {
+    display: grid;
+    height: 35%;
+    width: 100%;
+    align-self: flex-end;
+    align-items: center;
+    justify-content: center;
+    pointer-events: none;
+    overflow: hidden;
+
+    img {
+      max-height: 100%;
+      max-width: 100%;
+      height: auto;
+      width: auto;
+      align-self: flex-end;
+    }
+  }
+
+  .dialog {
+    display: flex;
+    height: 65%;
+    width: 100%;
+  }
+}
